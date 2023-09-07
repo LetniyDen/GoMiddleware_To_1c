@@ -1,0 +1,4 @@
+{
+    "Address_base_cntr": "http://localhost/Test_golang_1/hs/exchange/custom_json",
+    "Address_base_mobile": "http://localhost/Test_golang_2/hs/exchange/custom_json"
+}
